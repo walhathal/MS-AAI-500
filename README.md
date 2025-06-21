@@ -1,6 +1,6 @@
 # Used Car Price Analysis 🚗📊
 
-A data science class project analyzing key factors that influence used car prices using a dataset of over 400,000 used car listings.
+A Statistics science class project analyzing key factors that influence used car prices using a dataset of over 400,000 used car listings.
 
 ## 🎯 Project Overview
 
