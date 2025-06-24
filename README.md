@@ -135,3 +135,11 @@ used-car-price-analysis/
 - Exploratory data analysis methods
 - Data visualization best practices
 - Feature engineering concepts
+
+  ## Link to Jupyter Notebook
+
+[Click here to view the notebook](https://github.com/walhathal/MS-AAI-500/blob/main/Practical%20Application%20%233.ipynb)
+
+## Author
+
+Wael Alhathal - Idrees Khan - Dennis Johnson Arapurayil 
